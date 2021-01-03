@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tip</string>
+    <string name="name_amount">Amount</string>
+    <string name="name_percent">Percent</string>
+    <string name="name_tip">Tip</string>
+    <string name="tip_percent_default_text">20</string>
+    <string name="name_clear">clear</string>
+    <string name="tip_placeholder">Tip the waiter 45 naira</string>
+</resources>
